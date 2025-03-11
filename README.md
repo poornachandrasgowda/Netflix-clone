@@ -46,7 +46,6 @@ index.html
 ## 🚧 **Project Structure**  
 ```bash
 📂 Netflix-Clone
-├── 📂 assets
 ├── index.html
 ├── style.css
 └── README.md
